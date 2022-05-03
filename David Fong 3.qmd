@@ -1,0 +1,55 @@
+---
+title: “The role of community-based service organizations in the humanitarian response to infectious disease crises in vulnerable populations of sub-Saharan Africa”
+subtitle: "for MGMT-5090"
+author: "David Fong, daf422@g.harvard.edu"
+format:
+  pdf:
+    toc: true
+  docx:
+    toc: true
+    toc-depth: 3
+    section-numbers: true
+    reference-doc: custom-reference-doc.docx
+  html:
+    toc: true
+editor: visual
+csl: apa7.csl
+bibliography: references.bib
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+# the following \pagebreak doesn't work unless there is some 'matter' after the front-matter!
+```
+
+\pagebreak
+
+## Introduction
+
+Infectious disease epidemic crises have repeatedly challenged the nations and peoples of sub-Saharan Africa. From HIV (1990s -- 2000s) to tuberculosis to Ebola (2014 -- 2016) and COVID-19 (2020 -- 2022), each emergent crisis -- sometimes originating in Africa, sometimes part of wider global pandemic and sometimes overlapping each other -- has presented novel and life-threatening landscape-scale threats to communities throughout sub-Saharan Africa [@kimani2020]. Each infectious disease crisis has been characterized by difficulties in collecting information to inform situational awareness, difficulties in formulating and implementing effective management plans, difficulties in disseminating information, widespread public fear and widespread social and economic impacts.
+
+Effective healthcare response to infectious disease depends on the ability to deploy an available, well-trained healthcare workforce. However, many of the countries in sub-Saharan Africa are, and have, lacking in adequate healthcare resources [@cancedda2016; @paterson2017]. Weak governments, stagnant economies and neo-liberal policies have resulted in reduced expenditure on social services, such as healthcare [@okma2016]. The publicly-funded health sector often has weak governance and management systems [@internationalrescuecommittee2016]. Similarly, developing countries in Africa have limited resources to implement welfare and anti-poverty measures to mitigate the economic and social effects of an infectious disease epidemic and the adverse consequences of epidemic control measures [@gutierrez-romero2020].
+
+In the midst of inadequate resources to manage the health, social and economic impacts of infectious disease epidemic crises, developing countries of sub-Saharan Africa are also faced with pre-existing endemic poverty [@gutierrez-romero2020]. With poverty comes many other high-priority health concerns, such as high rates of maternal and child mortality, chronic malnutrition and low levels of education [@sasidharan2021, p. 19]. These other concerns can easily divert attention away from infectious disease epidemic crises [@carstensen2021].
+
+Infectious disease epidemics can, however, be anticipated. An increasing number of infections, often zoonotic, have crossed over into humans in the past two decades, and an increasing number are expected to do so [@dvorak2020].
+
+In the face of gaps in government-provided social and healthcare services, community-based (CBO) and other non-government (NGO) organizations have arisen to provide those services [@okma2016]. Given that infectious disease epidemics can be anticipated, and the healthcare and social consequences thereof, can community-based organizations (CBOs) which already provide social and healthcare services be employed to assist in epidemic crisis response? What are the potential contributions, strengths and weaknesses of CBO humanitarian responses to infectious disease crises?
+
+In potential favour of community-based organization (CBO) response to the humanitarian consequences of healthcare crises are that they typically have local knowledge and presence, both before and after the healthcare crisis [@carstensen2021; @kieffer-døssing2020]. Already adapted to local conditions, they potentially have local situation awareness, insight into cultural beliefs, can tailor epidemic responses and potentially be more responsive to unanticipated effects of epidemic responses. Their smaller size may enable them to respond more quickly and flexibly to crises [@hushie2021; @kieffer-døssing2020]. If they have strong connections to the community, CBOs can mobilize and empower communities through public education, including recruitment and training of local staff to aid in the humanitarian response [@hushie2021; @paterson2017]. CBOs with good community relationships can improve relationships between the community and health centres and hospital [@hushie2021] and advocate for the community to government authorities and other organizations [@carstensen2021].
+
+However, CBOs are likely to have weaknesses in the comprehensiveness and co-ordination of crisis response. Crisis response is not the routine business of CBOs. Staff, staff training, overall strategy and funding may be orientated and linked to typical development goals, slowing the ability of CBOs to provide crisis response services [@internationalrescuecommittee2016]. The role and services provided by any individual CBO may be relatively narrow in scope, not reflect the comprehensive response required to a crisis [@carstensen2021]. A CBO's crisis response will often need to be supported and informed by expert external organizations. Individual CBO resources -- including the use of community volunteers -- may be limited and rapidly exhausted [@carstensen2021]. CBOs may have poor linkages and information sharing with government, other large non-governmental organizations and other CBOs, reducing their ability to co-ordinate a comprehensive response.
+
+I propose to examine the past and potential contributions of community-based organizations to the humanitarian response to infectious disease crises affecting vulnerable populations in sub-Saharan Africa. I expect to find that community-based organizations can provide a decentralized, localized and adaptive responses to epidemic crises, but that much can be done to prepare to strengthen the leadership and co-ordination in those responses [@clarke2014; @leonard2010].
+
+\pagebreak
+
+## References
+
+<br>
+
+::: {#refs}
+:::
