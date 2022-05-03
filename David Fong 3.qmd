@@ -45,15 +45,31 @@ However, CBOs are likely to have weaknesses in the comprehensiveness and co-ordi
 
 This article will examine past and potential contributions of community-based organisations to the humanitarian response to infectious disease crises affecting vulnerable populations in sub-Saharan Africa. Community-based organisations can provide a decentralised, localised and adaptive responses to epidemic crises, but much can be done to prepare to strengthen the leadership and co-ordination in those responses [@clarke2014; @leonard2010].
 
-## Potential role of community-based organizations
+## Infectious disease crises and social welfare
 
--   Loss of social welfare with infectious disease events [@vardavas2021]
+Infectious disease crises cause losses of social welfare [@vardavas2021]. Infectious disease outbreaks in sub-Saharan countries have caused loss of life, morbidity, reduction in individual economic prosperity, loss of education opportunity, destruction of skilled labour and loss of much-needed economic development [@boutayeb2010].
 
-    -   Damage to lives, health, economic livelihood, education, society skills and economic development [@boutayeb2010]
+However there are potential measures, including cost-effective measures, to reduce the loss of social welfare from infectious disease epidemics [@vardavas2021]. There is even the potential to increase social welfare through increasing community resilience [@australianbusinessroundtablefordisasterresilienceandsafercommunities2017]. Skill building, reducing the uncertainty of potential future losses and improved community connections can not only reduce the cost of a disaster but -- even in the absence of disaster -- improve social welfare.
 
-    -   Prospect of both cost-effective measures to reduce the loss of social welfare from infectious disease epidemics [@vardavas2021]
+## Roles within risk management framework
 
-    -   Potentially the possibility of increasing social welfare through increasing community resilience, both reducing the cost of the disaster but also -- even in the absence of disaster --- through skills building, reduced uncertainty and improving community connections. [@australianbusinessroundtablefordisasterresilienceandsafercommunities2017]
+Five leverage points for reducing social loss from disasters
+
+-   Prevention mitigation
+
+    -   Hygiene, living conditions, education
+
+-   Prepare for response and the response
+
+    -   Getting ready for rapid, effective response to an event
+
+    -   Reduce damage in progress and minister to human needs
+
+-   Advance recovery and recovery
+
+    -   Creating conditions that will make recovery faster, less costly and more complete
+
+    -   Restoring social welfare as soon as possible
 
 \pagebreak
 
