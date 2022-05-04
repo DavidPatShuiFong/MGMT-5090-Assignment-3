@@ -1,5 +1,5 @@
 ---
-title: “The role of community-based service organizations in the humanitarian response to infectious disease crises in vulnerable populations of sub-Saharan Africa”
+title: “The role of community-based service organisations in the humanitarian response to infectious disease crises in vulnerable populations of sub-Saharan Africa”
 subtitle: "for MGMT-5090"
 author: "David Fong, daf422@g.harvard.edu"
 format:
@@ -39,21 +39,43 @@ Infectious disease epidemics can, however, be anticipated. An increasing number 
 
 In the face of gaps in government-provided social and healthcare services, community-based (CBO) and other non-government (NGO) organisations have arisen to provide those services [@okma2016]. Given that infectious disease epidemics can be anticipated, and the healthcare and social consequences thereof, can community-based organisations (CBOs) which already provide social and healthcare services be employed to assist in epidemic crisis response? What are the potential contributions, strengths and weaknesses of CBO humanitarian responses to infectious disease crises?
 
-In potential favour of community-based organisation (CBO) response to the humanitarian consequences of healthcare crises are that they typically have local knowledge and presence, both before and after the healthcare crisis [@carstensen2021; @kieffer-døssing2020]. Already adapted to local conditions, they potentially have local situation awareness, insight into cultural beliefs, can tailor epidemic responses and potentially be more responsive to unanticipated effects of epidemic responses. Their smaller size may enable them to respond more quickly and flexibly to crises [@hushie2021; @kieffer-døssing2020]. If they have strong connections to the community, CBOs can mobilise and empower communities through public education, including recruitment and training of local staff to aid in the humanitarian response [@hushie2021; @paterson2017]. CBOs with good community relationships can improve relationships between the community and health centres and hospital [@hushie2021] and advocate for the community to government authorities and other organisations [@carstensen2021].
+In potential favour of community-based organisation (CBO) response to the humanitarian consequences of healthcare crises are that they typically have local knowledge and presence, both before and after the healthcare crisis [@carstensen2021; @kieffer-døssing2020]. Already adapted to local conditions, they potentially have local situation awareness, insight into cultural beliefs, can tailor epidemic responses and potentially be more responsive to unanticipated effects of epidemic responses. A diversity of observations, opinions and approaches -- different to that of larger organisations and government organisations -- has the potential to improve situational awareness and provide effective response to complex humanitarian problems [@clarke2013]. Their smaller size may enable them to respond more quickly and flexibly to crises [@hushie2021; @kieffer-døssing2020]. If they have strong connections to the community, CBOs can mobilise and empower communities through public education, including recruitment and training of local staff to aid in the humanitarian response [@hushie2021; @paterson2017]. CBOs with a strong level of 'ownership' by the community have the potential to improve the effectiveness of crisis responses by providing social trust and cohesion to the response measure [@tiberghien2022]. CBOs with good community relationships can improve relationships between the community and health centres and hospital [@hushie2021] and advocate for the community to government authorities and other organisations [@carstensen2021].
 
-However, CBOs are likely to have weaknesses in the comprehensiveness and co-ordination of crisis response. Crisis response is not the routine business of CBOs. Staff, staff training, overall strategy and funding may be orientated and linked to typical development goals, slowing the ability of CBOs to provide crisis response services [@internationalrescuecommittee2016]. The role and services provided by any individual CBO may be relatively narrow in scope and not reflect the comprehensive response required to a crisis [@carstensen2021]. A CBO's crisis response will often need to be supported and informed by expert external organisations. Individual CBO resources -- including the use of community volunteers -- may be limited and rapidly exhausted [@carstensen2021]. CBOs may have poor linkages and information sharing with government, other large non-governmental organisations and other CBOs, reducing their ability to co-ordinate a comprehensive response.
+However, CBOs are likely to have weaknesses in the comprehensiveness and co-ordination of crisis response. Crisis response is not the routine business of CBOs. Staff, staff training, overall strategy and funding may be orientated and linked to typical development goals, slowing the ability of CBOs to provide crisis response services [@internationalrescuecommittee2016]. A CBO, like other organisations, may have difficulty flexibly adapting to needs of a crisis response [@leonard2009]. The role and services provided by any individual CBO may be relatively narrow in scope and not reflect the comprehensive response required to a crisis [@carstensen2021]. A CBO's crisis response will often need to be supported and informed by expert external organisations. Individual CBO resources -- including the use of community volunteers -- may be limited and rapidly exhausted [@carstensen2021]. CBOs may have poor linkages and information sharing with government, other large non-governmental organisations and other CBOs, reducing their ability to co-ordinate a comprehensive response. Government organisations may be unwilling to acknowledge the potential or actual role of non-governmental organisations in crisis management and recovery [@colten2008].
+
+A flattened structure for awareness, but a more hierarchical structure for execution [@leonard2009a].
 
 This article will examine past and potential contributions of community-based organisations to the humanitarian response to infectious disease crises affecting vulnerable populations in sub-Saharan Africa. Community-based organisations can provide a decentralised, localised and adaptive responses to epidemic crises, but much can be done to prepare to strengthen the leadership and co-ordination in those responses [@clarke2014; @leonard2010].
 
 ## Infectious disease crises and social welfare
 
-Infectious disease crises cause losses of social welfare [@vardavas2021]. Infectious disease outbreaks in sub-Saharan countries have caused loss of life, morbidity, reduction in individual economic prosperity, loss of education opportunity, destruction of skilled labour and loss of much-needed economic development [@boutayeb2010].
+Infectious disease crises cause losses of social welfare [@vardavas2021; @leonard2010a]. Infectious disease outbreaks in sub-Saharan countries have caused loss of life, morbidity, reduction in individual economic prosperity, loss of education opportunity, destruction of skilled labour and loss of much-needed economic development [@boutayeb2010].
 
-However there are potential measures, including cost-effective measures, to reduce the loss of social welfare from infectious disease epidemics [@vardavas2021]. There is even the potential to increase social welfare through increasing community resilience [@australianbusinessroundtablefordisasterresilienceandsafercommunities2017]. Skill building, reducing the uncertainty of potential future losses and improved community connections can not only reduce the cost of a disaster but -- even in the absence of disaster -- improve social welfare.
+However, there are potential measures, including cost-effective measures, to reduce the loss of social welfare from infectious disease epidemics [@vardavas2021]. There is even the potential to increase social welfare through increasing community resilience [@australianbusinessroundtablefordisasterresilienceandsafercommunities2017]. Skill building, reducing the uncertainty of potential future losses and improved community connections can not only reduce the cost of a disaster but -- even in the absence of disaster -- improve social welfare.
 
-## Roles within risk management framework
+## Reducing social welfare loss and the Comprehensive Risk Management Framework
 
-Five leverage points for reducing social loss from disasters
+@leonard2010a suggest that opportunities and measures to reduce social loss from disasters can be divided into those taking place prior to the disaster event, during the disaster event and after the disaster event.
+
+-   Before the disaster event
+
+    -   'Prevention/mitigation' -- Reduce the probability or severity of the event
+
+    -   'Preparation for response' -- Prepare to respond rapidly and effectively to the event
+
+    -   'Advance recovery' -- Prepare for a rapid, complete recovery, reducing the consequences of the event
+
+-   During and immediately after the event
+
+    -   'Response' -- Reduce the damage from the event, ministering to human needs
+
+-   After the event
+
+    -   'Recovery' -- Promote rapid, complete recovery. Restore social welfare.
+
+Community-based organisations (CBOs) in sub-Saharan Africa have the potential to assist in all stages of managing the risk of an infectious disease crisis. For example, CBOs are often already involved in reducing the risk of water-borne and sexually-transmitted disease outbreaks. Risk prevention and mitigation measures include providing education -- including about the nature and importance of infectious disease -- and enabling access to cleaner water and contraceptive services.
+
+Five leverage points for reducing social loss from disasters [@leonard2010a].
 
 -   Prevention mitigation
 
@@ -70,6 +92,8 @@ Five leverage points for reducing social loss from disasters
     -   Creating conditions that will make recovery faster, less costly and more complete
 
     -   Restoring social welfare as soon as possible
+
+Both public and private organisations typically devote more resources towards activities and few resources to gathering information to detect or monitor a potential crisis [@boin2016].
 
 \pagebreak
 
