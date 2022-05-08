@@ -31,33 +31,27 @@ library(tidyverse)
 
 Infectious disease epidemic crises have repeatedly challenged the nations and peoples of sub-Saharan Africa. From HIV (1990s -- 2000s) to tuberculosis to Ebola (2014 -- 2016) and COVID-19 (2020 -- 2022), each emergent crisis -- sometimes originating in Africa, sometimes part of wider global pandemic and sometimes overlapping each other -- has presented novel and life-threatening landscape-scale threats to communities throughout sub-Saharan Africa [@kimani2020; @hasan2022]. Each infectious disease crisis has been characterised by novel difficulties in collecting information to inform situational awareness, sense-making, difficulties in formulating, implementing and adapting effective management plans, difficulties in disseminating information, widespread public fear and widespread social and economic impacts [@kevany2012]. Like other crises, infectious disease crises occur in an environment where no one is expert on all aspects [@boin2016; @leonard2009].
 
-Effective healthcare response to infectious disease depends on the ability to deploy an available, well-trained and well-informed healthcare workforce. However, many of the countries in sub-Saharan Africa are -- and have been -- lacking in adequate healthcare resources [@cancedda2016; @paterson2017]. Weak governments, stagnant economies and neo-liberal policies have resulted in reduced expenditure on social services, such as healthcare [@okma2016]. The publicly-funded health sector often has weak governance and management systems [@internationalrescuecommittee2016]. Similarly, developing countries in Africa have limited resources to implement welfare and anti-poverty measures to mitigate the economic and social effects of an infectious disease epidemic and the adverse consequences of epidemic control measures [@gutierrez-romero2020].
+Effective healthcare response to infectious disease depends on the ability to deploy an available, well-trained and well-informed healthcare workforce. However, many of the countries in sub-Saharan Africa are -- and have been -- lacking in adequate healthcare resources [@cancedda2016; @paterson2017]. Weak governments, stagnant economies and neo-liberal policies have resulted in reduced expenditure on social services, such as healthcare [@okma2016]. The publicly-funded health sector often has weak governance and management systems [@internationalrescuecommittee2016]. Similarly, developing countries in Africa have limited resources to implement welfare and anti-poverty measures to mitigate the economic and social effects of an infectious disease epidemic and the adverse consequences of epidemic control measures [@gutierrez-romero2020]. In the face of gaps -- even during the absence of epidemic infections -- in government-provided social and healthcare services community-based (CBO) and other non-government (NGO) organisations have arisen to provide those services [@okma2016; @hushie2021].
 
-In the midst of inadequate resources to manage the health, social and economic impacts of infectious disease epidemic crises, developing countries of sub-Saharan Africa are also faced with pre-existing endemic poverty [@gutierrez-romero2020]. With poverty comes many other high-priority health concerns, such as high rates of maternal and child mortality, chronic malnutrition and low levels of education [@sasidharan2021, p. 19]. These other concerns can easily divert attention away from infectious disease epidemic crises [@carstensen2021].
+In the midst of inadequate resources to manage the health, social and economic impacts of infectious disease epidemic crises, developing countries of sub-Saharan Africa face pre-existing endemic poverty [@gutierrez-romero2020]. With poverty comes many other high-priority health concerns, such as high rates of maternal and child mortality, chronic malnutrition and low levels of education [@sasidharan2021, p. 19]. These other concerns can easily divert attention away from infectious disease epidemic crises [@carstensen2021].
 
 Infectious disease epidemics can, however, be anticipated. An increasing number of infections, often zoonotic, have crossed over into humans in the past two decades, and an increasing number of infections are expected to do so [@dvorak2020].
 
-In the face of gaps in government-provided social and healthcare services, community-based (CBO) and other non-government (NGO) organisations have arisen to provide those services [@okma2016; @hushie2021]. Given that infectious disease epidemics can be anticipated, and the healthcare and social consequences thereof, can community-based organisations (CBOs) which already provide social and healthcare services be employed to assist in epidemic crisis response? What are the potential contributions, strengths and weaknesses of CBO humanitarian responses to infectious disease crises?
-
-In potential favour of community-based organisation (CBO) response to the humanitarian consequences of healthcare crises are that they typically have local knowledge and presence, both before and after the healthcare crisis [@carstensen2021; @kieffer-døssing2020]. Already adapted to local conditions, they potentially have local situation awareness, insight into cultural beliefs, can tailor epidemic responses and potentially be more responsive to unanticipated effects of epidemic responses. A diversity of observations, opinions and approaches -- different to that of larger organisations and government organisations -- has the potential to improve situational awareness and provide effective response to complex humanitarian problems [@clarke2013]. Their smaller size may enable them to respond more quickly and flexibly to crises [@hushie2021; @kieffer-døssing2020]. If they have strong connections to the community, CBOs can mobilise and empower communities through public education, including recruitment and training of local staff to aid in the humanitarian response [@hushie2021; @paterson2017]. CBOs with a strong level of 'ownership' by the community have the potential to improve the effectiveness of crisis responses by providing social trust and cohesion to the response measure [@tiberghien2022]. CBOs with good community relationships can improve relationships between the community and health centres and hospital [@hushie2021] and advocate for the community to government authorities and other organisations [@carstensen2021].
+Since infectious disease epidemics and their health and social consequences can be anticipated and since community-based organisations (CBOs) already provide social and healthcare services then CBOs could potentially be well-positioned to assist in epidemic crisis responses.
 
 It is increasingly recognized that response to major crises requires a whole of community engagement. Government organizations need to partner effectively with private, non-profit and community-based organizations to complement the public sector's own capabilities [@boin2016; @bedson2020].
 
-However, CBOs are likely to have weaknesses in the comprehensiveness and co-ordination of crisis response. Crisis response is not the routine business of CBOs. Staff, staff training, overall strategy and funding may be orientated and linked to typical development goals, slowing the ability of CBOs to provide crisis response services [@internationalrescuecommittee2016]. A CBO, like other organisations, may have difficulty flexibly adapting to needs of a crisis response [@leonard2009]. The role and services provided by any individual CBO may be relatively narrow in scope and not reflect the comprehensive response required to a crisis [@carstensen2021]. A CBO's crisis response will often need to be supported and informed by expert external organisations. Individual CBO resources -- including the use of community volunteers -- may be limited and rapidly exhausted [@carstensen2021]. CBOs may have poor linkages and information sharing with government, other large non-governmental organisations and other CBOs, reducing their ability to co-ordinate a comprehensive response. Government organisations may be unwilling to acknowledge the potential or actual role of non-governmental organisations in crisis management and recovery [@colten2008].
-
-A flattened structure for awareness, but a more hierarchical structure for execution [@leonard2009].
-
-This article will examine past and potential contributions of community-based organisations to the humanitarian response to infectious disease crises affecting vulnerable populations in sub-Saharan Africa. Community-based organisations can provide a decentralised, localised and adaptive responses to epidemic crises, but much can be done to prepare to strengthen the leadership and co-ordination in those responses [@clarke2014; @leonard2010].
+This article will examine past and potential contributions of community-based organisations to the humanitarian response to infectious disease crises affecting vulnerable populations in sub-Saharan Africa.
 
 ## Infectious disease crises and social welfare
 
 Infectious disease crises cause losses of social welfare [@vardavas2021; @leonard2010a]. Infectious disease outbreaks in sub-Saharan countries have caused loss of life, morbidity, reduction in individual economic prosperity, loss of education opportunity, destruction of skilled labour and loss of much-needed economic development [@boutayeb2010].
 
-However, there are potential measures, including cost-effective measures, to reduce the loss of social welfare from infectious disease epidemics [@vardavas2021]. There is even the potential to increase social welfare through increasing community resilience [@australianbusinessroundtablefordisasterresilienceandsafercommunities2017]. Skill building, reducing the uncertainty of potential future losses and improved community connections can not only reduce the cost of a disaster but -- even in the absence of disaster -- improve social welfare.
+However, there are potential measures, including cost-effective measures, to reduce the loss of social welfare from infectious disease epidemics [@vardavas2021]. Potentially social welfare may even increase as the result of measures to improve community resilience [@australianbusinessroundtablefordisasterresilienceandsafercommunities2017]. Skill building, reducing the uncertainty of potential future losses and improved community connections can not only reduce the cost of a disaster but -- even in the absence of disaster -- improve social welfare.
 
-## Reducing social welfare loss and the Comprehensive Risk Management Framework
+## Reducing social welfare loss: the Comprehensive Risk Management Framework
 
-@leonard2010a suggest that opportunities and measures to reduce social loss from disasters take place not only during and immediately after the disaster event, but also before the disaster event and during a (sometimes prolonged) recovery phase after the event.
+@leonard2009a suggest that opportunities and measures to reduce social loss from disasters take place not only during and immediately after the disaster event, but also before the disaster event and during a (sometimes prolonged) recovery phase after the event.
 
 -   Before the disaster event
 
@@ -75,13 +69,51 @@ However, there are potential measures, including cost-effective measures, to red
 
     -   'Recovery' -- Promote rapid, complete recovery. Restore social welfare.
 
-Community-based organisations (CBOs) in sub-Saharan Africa have the potential and capability to assist in all stages of managing the risk of an infectious disease crisis.
+Community-based organisations (CBOs) in sub-Saharan Africa have the potential and capability to assist in all stages of managing the risk of an infectious disease crisis. Examples of the role of CBOs in infectious crisis events follow.
 
-## Community-based organizations, response and preparation for response
+### Prevention and mitigation
 
-The response to an infectious disease crisis, during the time of the crisis, reduces the damage from the crisis and caters to human needs.
+Ideally, infectious disease crises are prevented, or the number of infections reduced through mitigation.
 
-Infectious disease crises can directly cause death and morbidity among vulnerable populations. Death and morbidity of individuals places strain on the families and communities afflicted by infection, can have long-term effects (including nutritional, educational and earning potential) on the affected individuals and affect the development of the community as a whole [@banerjee2012]. Communities already with socio-economic disadvantage are at increased vulnerability to infectious disease crises, having reduced capacity to take measures to prevent infection, often reduced vulnerability to infection and reduced capacity to withstand the economic effects of either infection or measures taken to prevent infection [@bhaskar2020; @ahmed2020].
+CBOs are often already involved in reducing the risk of water-borne, vector-drive (e.g. mosquito) and sexually-transmitted disease outbreaks. Risk prevention and mitigation measures include providing education -- including about the nature and importance of infectious disease -- and enabling access to cleaner water and contraceptive services [@banerjee2012].
+
+Measures taken to prevent or mitigate infectious from one epidemic may even have synergistic effects with other infection control programs. Hand-washing and better hygiene facilities built for the COVID-19 pandemic have reportedly led to decreased rates of cholera and typhoid in Kenyan communities [@carstensen2021].
+
+### Response -- During and immediately after the event
+
+The response to an infectious disease crisis, during the time of the crisis, reduces the damage from the crisis and also caters to human needs as the result of inflicted damage.
+
+Infectious disease crises can directly cause death and morbidity among vulnerable populations. Death and morbidity of individuals places strain on the families and communities afflicted by infection, can have long-term effects (including nutritional, educational and earning potential) on affected individuals. Death and morbidity also affects the development of the community as a whole \[@banerjee2012\].
+
+Communities already with socio-economic disadvantage are at increased vulnerability to infectious disease crises. The vulnerability is the result of reduced capacity to take measures to prevent infection, often increased susceptiblity to infection and reduced capacity to withstand the economic effects of either infection or measures taken to prevent infection \[@bhaskar2020; @ahmed2020\].
+
+CBOs already have a role and resources to provide healthcare in sub-Saharan Africa. These resources can be utilised during a healthcare crisis [@hushie2021].
+
+CBOs have rapidly pivoted towards provision of measures aimed at meeting immediate needs, even if outside the original scope of their operations. For example counselling services for HIV positive patients in Nairobi, Kenya, arranged food delivery to sex-workers in during COVID-19 lockdowns [@ekeland2022; @kimani2020].
+
+### Recovery
+
+CBOs have a role in support of infectious disease survivors and the families of both victims and survivors. Survivors may suffer post-infection social, economic, psychological and health challenges, as well as stigmatization [@hushie2021]. Similarly, the surviving families of infectious disease victims may suffer the consequences of ongoing poverty and psychological distress [@cho2018].
+
+The role of CBOs in crisis recovery is aided by having presence in the community both before, and long after, the crisis [@internationalrescuecommittee2016]. The mere presence of CBO staff visiting households of isolated individuals and families for 'routine' visits could have mental health benefits [@carstensen2021].
+
+### Preparing for response and recovery
+
+The immediate response to an infectious disease crisis, and recovery from its effects, can be highly visible and demand immediate attention and considerable resources [@leonard2010a]. However, measures to enhance the response and recovery to an infectious disease epidemic conducted prior to an infectious disease crisis can also cost-effectively reduce the damage from the event and reduce the social welfare loss from the infectious disease event. Measures to prepare, in advance, for accelerated recovery can be particularly neglected [@leonard2010a].
+
+General preparation for accelerated recovery can be relatively non-specific (compared to immediate responses to individual crises), and be generalised to different infectious disease, or even to other crises.
+
+## Placer
+
+Community-based organisations (CBOs) typically have local knowledge and presence, both before and after healthcare crises [@carstensen2021; @kieffer-døssing2020]. Already adapted to local conditions, they potentially have local situation awareness, insight into cultural beliefs. CBOs can tailor epidemic responses and potentially be more responsive to unanticipated effects of epidemic responses. A diversity of observations, opinions and approaches -- different to that of larger organisations and government organisations -- has the potential to improve situational awareness and provide effective response to complex humanitarian problems [@clarke2013]. Their smaller size may enable them to respond more quickly and flexibly to crises [@hushie2021; @kieffer-døssing2020]. If they have strong connections to the community, CBOs can mobilise and empower communities through public education, including recruitment and training of local staff to aid in the humanitarian response [@hushie2021; @paterson2017]. CBOs with a strong level of 'ownership' by the community have the potential to improve the effectiveness of crisis responses by providing social trust and cohesion to the response measure [@tiberghien2022]. CBOs with good community relationships can improve relationships between the community and health centres and hospital [@hushie2021] and advocate for the community to government authorities and other organisations [@carstensen2021].
+
+However, CBOs are likely to have weaknesses in the comprehensiveness and co-ordination of crisis response. Crisis response is not the routine business of CBOs. Staff, staff training, overall strategy and funding may be orientated and linked to typical development goals, slowing the ability of CBOs to provide crisis response services [@internationalrescuecommittee2016]. A CBO, like other organisations, may have difficulty flexibly adapting to needs of a crisis response [@leonard2009]. The role and services provided by any individual CBO may be relatively narrow in scope and not reflect the comprehensive response required to a crisis [@carstensen2021]. A CBO's crisis response will often need to be supported and informed by expert external organisations. Individual CBO resources -- including the use of community volunteers -- may be limited and rapidly exhausted [@carstensen2021]. CBOs may have poor linkages and information sharing with government, other large non-governmental organisations and other CBOs, reducing their ability to co-ordinate a comprehensive response. Government organisations may be unwilling to acknowledge the potential or actual role of non-governmental organisations in crisis management and recovery [@colten2008].
+
+A flattened structure for awareness, but a more hierarchical structure for execution [@leonard2009].
+
+Community-based organisations can provide a decentralised, localised and adaptive responses to epidemic crises, but much can be done to prepare to strengthen the leadership and co-ordination in those responses [@clarke2014; @leonard2010].
+
+## Community-based organisations, response and preparation for response
 
 Local lockdowns to control COVID-19 increased riots, violence against civilians, food prices, food-related conflicts and food looting in Africa. Delivery of welfare assistance reduced the probability of riots, violence and casualties [@gutierrez-romero2020].
 
@@ -93,7 +125,7 @@ Containment vs mitigation -- different policies and messaging required [@pearson
 
 -   provide feedback on proposed interventions as applies to local people e.g. the advice to wash hands for twenty seconds to reduce the spread of COVID-19 provoked the response from a leader of a small community-based organisation in Kenya "Running water for 20 seconds! When we don't have even enough drinking water as it is". Adaptations developed locally, including hand-washing stations and methods to wash hands with less water [@carstensen2021].
 
--   potential to customize the required message into the local language and style of communication e.g. storytelling, and distribute [@kieffer-døssing2020; @clulow2020; @ebolaou2015af]. Girls in Kibera, Nairobi, Kenya adopting the small multi-coloured 'spike' haircut to publicize COVID-19 [@carstensen2021]. Messages to counter local rumours e.g. re COVID-19 vulnerable populations and treatments [@carstensen2021].
+-   potential to customize the required message into the local language and style of communication e.g. storytelling, and distribute [@kieffer-døssing2020; @clulow2020; @ebolaou2015]. Girls in Kibera, Nairobi, Kenya adopting the small multi-coloured 'spike' haircut to publicize COVID-19 [@carstensen2021]. Messages to counter local rumours e.g. re COVID-19 vulnerable populations and treatments [@carstensen2021].
 
 -   recruit volunteers and other workers to aid in the crisis response. Spontaneous local womens' groups in Burkina Faso -- after training -- going door-to-door raising awareness of COVID-19 related hygiene measures [@carstensen2021; @hushie2021].
 
@@ -101,15 +133,13 @@ Containment vs mitigation -- different policies and messaging required [@pearson
 
 -   monitor and anticipate unexpected and adverse consequences of policy through a feedback loop [@kevany2012].
 
--   often already involved, or can rapidly pivot towards, provision of measures aimed at meeting immediate needs e.g. counselling services arranging food delivery to sex-workers in Nairobi, Kenya, during COVID-19 lockdowns [@ekeland2022; @kimani2020]. Crisis intervention services which are co--operating or co-located with CBO-provided services (such as food, development or skill-training) can increase crisis intervention service delivery to specific target groups [@kevany2012].
+-   Crisis intervention services which are co--operating or co-located with CBO-provided services (such as food, development or skill-training) can increase crisis intervention service delivery to specific target groups [@kevany2012].
 
     -   potential access to additional funds other than what is available to the public authorities [@carstensen2021; @kimani2020; @hushie2021].
 
 Both public and private organisations typically devote more resources towards activities and few resources to gathering information to detect or monitor a potential crisis [@boin2016].
 
 Awareness and educational programs, e.g. focusing on keeping girls in school, sexuality education and girl/reproductive health friendly organizations and financial and political strengthening helped decrease HIV rates among African countries. However, during the COVID-19 epidemic, there was reduced HIV testing and ARV initiation in South Africa and even reduced access (50%) to ARV -- for those already on ARV treatment -- in Kenya [@hasan2022].
-
-Handwashing and better hygiene facilities built for the COVID-19 pandemic have reportedly led to decreased rates of cholera and typhoid in Kenyan communities [@carstensen2021].
 
 A multiplicity of organisations can result in confusing and contradictory messages. Behavioural change interventions are most likely to be effective if communication channels (world-of-mouth, social media, meetings, mass media) are co-ordinated with and in support of government policies [@bedson2020].
 
@@ -125,8 +155,6 @@ In one HIV-intervention program working in sites including in South Africa, Tanz
 
 ## Community-based organizations, crisis mitigation and prevention
 
-CBOs are often already involved in reducing the risk of water-borne and sexually-transmitted disease outbreaks. Risk prevention and mitigation measures include providing education -- including about the nature and importance of infectious disease -- and enabling access to cleaner water and contraceptive services.
-
 Behaviours drive infectious epidemic emergence and transmission. Crisis mitigation measures include enabling and reinforcing behaviour changes which reduce the spread of disease. However, behaviour change education has traditionally been a one-way disease-focused communication from centralized experts [@bedson2020]. However, this may ineffective. For example, restrictions on movement and congregation may be considered a religious problem rather than a health problem in the Niger. Or closing schools may result -- in some communities -- in children gathering at the local river [@kieffer-døssing2020].
 
 Communities can change behaviours, but need to be aware of the danger and mitigation strategies need to be available. This can be done through a two-way participatory learning and action approach to both create the 'demand' for behaviour change and the 'supply' of practical and realistic culturally-appropriate strategies [@bedson2020; @particip2017]. Development of strategies appropriate for the community -- guided by standardized, but flexible, operational processes -- can be done iteratively through questions such as [from @bedson2020]:
@@ -140,14 +168,6 @@ Communities can change behaviours, but need to be aware of the danger and mitiga
 4\. What action points or bylaws have been (or can be) developed on the disease in this community?
 
 Through iterations of consultation, monitoring, evaluation and feedback, community-based strategies can evolve over time to time-appropriate or more effective strategies e.g. from restricting movements into and out of a community to health surveillance of the community itself [@bedson2020].
-
-## Community-based organizations and crisis recovery
-
-CBOs often have presence in the community both before, and long after, the crisis [@internationalrescuecommittee2016].
-
-Role in support of infectious disease survivors, who may suffer post-infection social, economic, psychological and health challenges, as well as stigmatization [@hushie2021a].
-
-Basic mental healthcare benefits of visits to individual households and isolated individuals and families by CBOs and mutual-aid organizations [@carstensen2021].
 
 ## Recommendations
 
